@@ -12,3 +12,9 @@ __pycache__/
 # Ignore model outputs / logs
 finetunedModel/
 log/
+
+# Ignore the Datasets files
+Datasets/
+.DS_Store
+.ipynb_checkpoints/
+.csv
